@@ -20,6 +20,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/klte-common/proprietary/bin/irsc_util:system/bin/irsc_util \
     vendor/samsung/klte-common/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
     vendor/samsung/klte-common/proprietary/bin/mpdecision:system/bin/mpdecision \
+    vendor/samsung/klte-common/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/samsung/klte-common/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/samsung/klte-common/proprietary/bin/radish:system/bin/radish \
     vendor/samsung/klte-common/proprietary/bin/time_daemon:system/bin/time_daemon \
